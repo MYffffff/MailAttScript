@@ -74,7 +74,8 @@ New-Item -Path "$dst_directory\$conf_filename" -ItemType File `
   `"sender_mail`": `"$sender_mail`",
   `"app_password`": `"$app_password`",
   `"dest_mail`": `"$dest_mail`",
-  `"computer_name`": `"$computer_name`"}" -Force
+  `"computer_name`": `"$computer_name`",
+  `"test_connection_address`": `"yandex.ru`"}" -Force
 
  
   #Регистрация XML файла как задачу  
