@@ -1,4 +1,4 @@
-# Logger
+# MailAttScript
 1.Запустить powershell от имени администратора <br/>
 2.Ввести команду: <br/>
 ```Set-ExecutionPolicy -ExecutionPolicy Unrestricted``` <br/>
